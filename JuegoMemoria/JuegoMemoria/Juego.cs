@@ -1,0 +1,7 @@
+﻿namespace JuegoMemoria
+{
+    class Juego
+    {
+
+    }
+}
