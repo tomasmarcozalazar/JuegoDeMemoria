@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cartas\Carta.cs" />
+    <Compile Include="Cartas\GeneradorDeCartas.cs" />
+    <Compile Include="Graficas.cs" />
+    <Compile Include="Juego.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

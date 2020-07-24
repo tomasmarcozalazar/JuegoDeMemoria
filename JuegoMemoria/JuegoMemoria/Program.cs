@@ -10,9 +10,9 @@ namespace JuegoMemoria
     {
         static void Main(string[] args)
         {
-            Carta naipe = new Carta(1);
-            naipe.DarVuelta();
+            Juego juego = new Juego();
 
+            juego.GameLoop();
         }
     }
 }
